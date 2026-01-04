@@ -1,0 +1,1 @@
+# Maalaria_Detection_CNN
